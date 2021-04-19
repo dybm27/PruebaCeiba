@@ -1,6 +1,6 @@
 package co.com.ceiba.mobile.pruebadeingreso.presenter.post
 
-import co.com.ceiba.mobile.pruebadeingreso.interfaces.RetrofitApi
+import co.com.ceiba.mobile.pruebadeingreso.rest.RetrofitApi
 import co.com.ceiba.mobile.pruebadeingreso.model.dao.PostDao
 import co.com.ceiba.mobile.pruebadeingreso.model.entities.Post
 import co.com.ceiba.mobile.pruebadeingreso.presenter.BasePresenter

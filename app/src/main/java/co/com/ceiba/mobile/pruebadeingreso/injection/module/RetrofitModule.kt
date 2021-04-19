@@ -1,6 +1,6 @@
 package co.com.ceiba.mobile.pruebadeingreso.injection.module
 
-import co.com.ceiba.mobile.pruebadeingreso.interfaces.RetrofitApi
+import co.com.ceiba.mobile.pruebadeingreso.rest.RetrofitApi
 import co.com.ceiba.mobile.pruebadeingreso.rest.Endpoints
 import dagger.Module
 import dagger.Provides

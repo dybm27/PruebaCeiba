@@ -1,6 +1,6 @@
 package co.com.ceiba.mobile.pruebadeingreso.presenter.user
 
-import co.com.ceiba.mobile.pruebadeingreso.interfaces.RetrofitApi
+import co.com.ceiba.mobile.pruebadeingreso.rest.RetrofitApi
 import co.com.ceiba.mobile.pruebadeingreso.model.dao.AddressDao
 import co.com.ceiba.mobile.pruebadeingreso.model.dao.CompanyDao
 import co.com.ceiba.mobile.pruebadeingreso.model.dao.GeoDao
